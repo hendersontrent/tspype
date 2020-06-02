@@ -14,7 +14,6 @@ Some of the functionality in tspype includes:
 DISTNAME = 'tspype'
 MAINTAINER = 'Trent Henderson'
 MAINTAINER_EMAIL = 'trent.henderson1@outlook.com'
-LICENSE = 'BSD (3-clause)'
 DOWNLOAD_URL = 'https://github.com/hendersontrent/tspype/'
 VERSION = '0.1.0.'
 PYTHON_REQUIRES = ">=3.6"
