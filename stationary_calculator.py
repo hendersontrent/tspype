@@ -1,4 +1,4 @@
-"""Write a reusable stationarity calculator function"""
+"""Builds a reusable stationarity calculator function"""
 
 import pandas as pd
 import numpy as np
