@@ -1,0 +1,1 @@
+# Import tspype thingsfrom .tsplotter import *from .stationary_calculator import *from .decomposer import *# Define the tspype version__version__ = "0.1.0"
