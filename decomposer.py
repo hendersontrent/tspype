@@ -1,4 +1,4 @@
-"""Write a reusable decomposition function"""
+"""Builds a reusable decomposition function"""
 
 import pandas as pd
 import numpy as np

@@ -1,4 +1,4 @@
-"""Build a function that returns a time series plot, density of y values, ACF and PACF"""
+"""Builds a function that returns a time series plot, density of y values, ACF and PACF"""
 
 import pandas as pd
 import numpy as np
