@@ -16,7 +16,7 @@ pip install git+https://github.com/hendersontrent/tspype/
 ## Examples
 
 One of the packages main functions `tsplotter` produces a matrix of plots similar to below. It plots the raw time series data, density of the response variable, autocorrelation function and partial autorcorrelation function.
-[](https://github.com/hendersontrent/tspype/blob/master/blob/tsplotter.png)
+![](https://github.com/hendersontrent/tspype/blob/master/blob/tsplotter.png)
 
 Another core function is `decomposer` which produces plots of time series features in a decomposed format, such as trend, seasonality and residuals.
-[](https://github.com/hendersontrent/tspype/blob/master/blob/decomposer.png)
+![](https://github.com/hendersontrent/tspype/blob/master/blob/decomposer.png)
