@@ -1,1 +1,1 @@
-# Import tspype thingsfrom .tsplotter import *from .stationary_calculator import *from .decomposer import *# Define the tspype version__version__ = "0.1.0"
+"""This is the tspype package - time series diagnostic pipeline for Python."""# Import tspype thingsfrom .tsplotter import *from .stationary_calculator import *from .decomposer import *# Define the tspype version__version__ = "0.1.0"
