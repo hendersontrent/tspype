@@ -1,4 +1,13 @@
-"""Builds a reusable stationarity calculator function"""
+"""
+This is the stationary_calculator function.
+
+Args:
+    data: Single column which holds the y axis variable (should be time-ordered, numeric and represent the outcome)
+    sig_threshold (float): Decimal number corresponding to p-value cutoff for the Dickey-Fuller unit root test. Suggested value is 0.05.
+
+Returns:
+    Dickey-Fuller test statistic, p-value, and commentary on whether data is time-dependent or stationary.
+"""
 
 import pandas as pd
 import numpy as np

@@ -1,4 +1,13 @@
-"""Builds a reusable decomposition function"""
+"""
+This is the decomposer function.
+
+Args:
+    x: Single column which holds the x axis variable (should represent time).
+    y: Single column which holds the y axis variable (should be numeric and represent the outcome)
+
+Returns:
+    Quadrant matrix of plots for raw data, trend, seasonality, and residuals components.
+"""
 
 import pandas as pd
 import numpy as np
