@@ -1,5 +1,5 @@
 # tspype
-Time Series Python Pipeline (`tspype`). Builds a Python package to host time series functions I have written and re-use often.
+Time Series Diagnostic Python Pipeline (`tspype`). The Python package for automating common time series data diagnostics and their visualisations.
 
 ## Installation
 
